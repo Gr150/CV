@@ -1,4 +1,4 @@
-# YOLOv5/v7 bouning box and Empty Shelf Detection
+# YOLOv5/v7 bounding box and Empty Shelf Detection
 
 This repository contains notebooks  for training and detecting empty shelves using YOLOv5 and YOLOv7 models. The "utils" directory includes utility scripts that might be helpful for your projects. The image dataset, the object detection results on images and video can be found in this link 
 
